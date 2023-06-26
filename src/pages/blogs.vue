@@ -1,1 +1,3 @@
-<template>ブログページ</template>
+<template>
+  <div>ブログページ</div>
+</template>
