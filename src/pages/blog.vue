@@ -1,3 +1,3 @@
 <template>
-  <div>修正しましたtest</div>
+  <div>修正しました</div>
 </template>
