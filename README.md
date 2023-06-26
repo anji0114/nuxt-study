@@ -1,6 +1,8 @@
 # Nuxt 3 Minimal Starter
 
-## READMEを変更1
+## README を変更
+
+### README の変更 2
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
