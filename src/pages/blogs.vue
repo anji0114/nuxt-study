@@ -1,3 +1,8 @@
 <template>
-  <div>ブログページ</div>
+  <div>
+    <p>ブログページ</p>
+    <div>
+      post function
+    </div>
+  </div>
 </template>
