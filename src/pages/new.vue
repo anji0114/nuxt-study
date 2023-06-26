@@ -1,3 +1,3 @@
 <template>
-  <div>news</div>
+  <div>news修正</div>
 </template>
