@@ -7,6 +7,7 @@ const { data: works } = await useFetch("/api/works");
   <div class="container">
     <h1 class="title">実績一覧</h1>
     <Works :works="works.contents" />
+    <div>検索機能の実装 修正</div>
   </div>
 </template>
 
