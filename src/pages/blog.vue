@@ -1,3 +1,3 @@
 <template>
-  <div>aaa</div>
+  <div>修正しました</div>
 </template>
